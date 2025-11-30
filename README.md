@@ -14,7 +14,7 @@ The idea behind the script is to organize video playback in mpv as follows:
 7. Brain automatically maps the meaning to the TL-audio and acquires the language.
 
 ### Setup instructions:
-1. Download and put the mvj-primed-listening.lua into mpv [scripts directory](https://mpv.io/manual/stable/#files) (for GNU/Linux: ~/.config/mpv/scripts/).
+1. Download and put the mvj-primed-listening.lua file into mpv [scripts directory](https://mpv.io/manual/stable/#files) (for GNU/Linux: ~/.config/mpv/scripts/).
 2. If you want the MvJ primed listening mode to be turned on by default add `mvj-primed-listening=yes` parameter to you mpv.conf (for GNU/Linux: ~/.config/mpv/mpv.conf).
 3. Whenever you want to turn this mode on or off, use Alt+P shortcut in mpv.
 
