@@ -2,7 +2,7 @@
 
 ## EN
 
-An [mpv](https://mpv.io/) script that makes immersion into complex (i+n) input comprehensible via an [MvJ](https://www.skool.com/mattvsjapan/about) primed listening technique. It's primarily aimed at beginners who want to acquire target language while consuming and heavily benefiting from foreign langauge content made by natives for natives. The approach is useful not only for MvJ practitioners, but in context of other immersion-first language acquisition methods. For example, it's perfectly valid for Refold [Stage 1](https://refold.la/roadmap/stage-1/overview/).
+It's an [mpv](https://mpv.io/) script that makes immersion into complex (i+n) input comprehensible via an [MvJ](https://www.skool.com/mattvsjapan/about) primed listening technique. It's primarily aimed at beginners who want to acquire target language while consuming and heavily benefiting from foreign langauge content made by natives for natives. The approach is useful not only for MvJ practitioners, but in context of other immersion-first language acquisition methods. For example, it's perfectly valid for Refold [Stage 1](https://refold.la/roadmap/stage-1/overview/).
 
 The idea behind the script is to organize video playback in mpv as follows:
 1. You watch TL (Target Language) video content with NL (Native Language) subs.
@@ -20,7 +20,7 @@ The idea behind the script is to organize video playback in mpv as follows:
 
 ## UK
 
-Скрипт для [mpv](https://mpv.io/), який робить занурення в складний (i+n) мовний вхід зрозумілим за допомогою техніки слухання з підтримками [MvJ](https://www.skool.com/mattvsjapan/about). Він в першу чергу призначений для початківців, які хочуть опанувати мову, споживаючи та отримуючи значну користь від контенту інозменою мовою, створеного носіями мови для носіїв. Цей підхід корисний не тільки для практикуючих MvJ, але й в контексті інших методів освоєння мови, що базуються на зануренні. Наприклад, він цілком підходить для [Стадії 1](https://telegra.ph/Stad%D1%96ya-1-Zakladayemo-Osnovu-10-14) у Refold.
+Це cкрипт для [mpv](https://mpv.io/), який робить занурення в складний (i+n) мовний вхід зрозумілим за допомогою техніки слухання з підтримками [MvJ](https://www.skool.com/mattvsjapan/about). Він в першу чергу призначений для початківців, які хочуть опанувати мову, споживаючи та отримуючи значну користь від контенту інозменою мовою, створеного носіями мови для носіїв. Цей підхід корисний не тільки для практикуючих MvJ, але й в контексті інших методів освоєння мови, що базуються на зануренні. Наприклад, він цілком підходить для [Стадії 1](https://telegra.ph/Stad%D1%96ya-1-Zakladayemo-Osnovu-10-14) у Refold.
 
 Ідея скрипту полягає в організації відтворення відео в mpv наступним чином:
 1. Ви дивитеся відеовміст на ЦМ (Цільовій Мові) з субтитрами на РМ (Рідній Мові).
