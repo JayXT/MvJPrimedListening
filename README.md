@@ -2,7 +2,7 @@
 
 ## EN
 
-An [mpv](https://mpv.io/) script that makes immersion into complex (i+n) input comprehensible via an [MvJ](https://www.skool.com/mattvsjapan/about) primed listening technique. It's primarily aimed at beginners who want to acquire target language while consuming and heavily benefiting from foreign langauge content made by natives for natives. The approach is useful not only for MvJ practitioners, but in context of other immersion-first language acquisition methods. For example, it's perfectly valid for Refold Stage 1.
+An [mpv](https://mpv.io/) script that makes immersion into complex (i+n) input comprehensible via an [MvJ](https://www.skool.com/mattvsjapan/about) primed listening technique. It's primarily aimed at beginners who want to acquire target language while consuming and heavily benefiting from foreign langauge content made by natives for natives. The approach is useful not only for MvJ practitioners, but in context of other immersion-first language acquisition methods. For example, it's perfectly valid for Refold [Stage 1](https://refold.la/roadmap/stage-1/overview/).
 
 The idea behind the script is to organize video playback in mpv as follows:
 1. You watch TL (Target Language) video content with NL (Native Language) subs.
