@@ -14,8 +14,8 @@ The idea behind the script is to organize video playback in mpv as follows:
 7. Brain automatically maps the meaning to the TL-audio and acquires the language.
 
 ### Setup instructions:
-1. Download and put the mvj-primed-listening.lua file into mpv [scripts directory](https://mpv.io/manual/stable/#files) (for GNU/Linux: ~/.config/mpv/scripts/).
-2. If you want the MvJ primed listening mode to be turned on by default add `mvj-primed-listening=yes` parameter to you mpv.conf (for GNU/Linux: ~/.config/mpv/mpv.conf).
+1. Download and put the mvj-primed-listening.lua file into mpv [scripts directory](https://mpv.io/manual/stable/#files) (for GNU/Linux and macOS: ~/.config/mpv/scripts/, for Windows: %APPDATA%/mpv/scripts/).
+2. If you want the MvJ primed listening mode to be turned on by default add `mvj-primed-listening=yes` parameter to you mpv.conf (for GNU/Linux and macOS: ~/.config/mpv/mpv.conf, for Windows: %APPDATA%/mpv/mpv.conf).
 3. Whenever you want to turn this mode on or off, use Alt+P shortcut in mpv.
 
 ## UK
@@ -32,6 +32,6 @@ The idea behind the script is to organize video playback in mpv as follows:
 7. Мозок автоматично співставляє значення з аудіо на ЦМ і освоює мову.
 
 ### Інструкції з налаштування:
-1. Завантажте та помістіть файл mvj-primed-listening.lua в [директорію для скриптів](https://mpv.io/manual/stable/#files) mpv (для GNU/Linux: ~/.config/mpv/scripts/).
-2. Якщо хочете, щоб режим слухання з підтримками MvJ був увімкнений замовчуванням, додайте параметр `mvj-primed-listening=yes` до вашого файлу mpv.conf (для GNU/Linux: ~/.config/mpv/mpv.conf).
+1. Завантажте та помістіть файл mvj-primed-listening.lua в [директорію для скриптів](https://mpv.io/manual/stable/#files) mpv (для GNU/Linux та macOS: ~/.config/mpv/scripts/, для Windows: %APPDATA%/mpv/scripts/).
+2. Якщо хочете, щоб режим слухання з підтримками MvJ був увімкнений замовчуванням, додайте параметр `mvj-primed-listening=yes` до вашого файлу mpv.conf (для GNU/Linux та macOS: ~/.config/mpv/mpv.conf, для Windows: %APPDATA%/mpv/mpv.conf).
 3. При потребі увімкнути або вимкнути цей режим, використовуйте комбінацію клавіш Alt+P в mpv.
